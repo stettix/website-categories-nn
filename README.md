@@ -1,4 +1,4 @@
-# Predict categories from text with pre-trainder word embeddings on dmoz dataset
+# Predict categories from text with pre-trained word embeddings on DMOZ dataset
 
 ## The plan
 
